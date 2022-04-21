@@ -35,7 +35,3 @@ Programmer | Software Developer | QA | tester
 <a href="http://www.github.com/endriwschiavenato"><img src="https://activity-graph.herokuapp.com/graph?username=endriwschiavenato&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/endriwschiavenato" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endriwschiavenato&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/endriwschiavenato/Ulbra" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=endriwschiavenato&repo=Ulbra&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
