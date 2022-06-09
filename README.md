@@ -30,16 +30,9 @@ Programmer | Software Developer | QA | tester
 
 <b>My GitHub Stats</b>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-stats.vercel.app/api?username=endriwschiavenato&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="endriwschiavenato's GitHub stats" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endriwschiavenato&show_icons=true&title_color=ee4444&bg_color=1c1917&locale=en" alt="endriwschiavenato" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endriwschiavenato&show_icons=true&title_color=ee4444&bg_color=1c1917&locale=en" alt="endriwschiavenato" /></p>
-
+<a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=endriwschiavenato&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
