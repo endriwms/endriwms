@@ -34,6 +34,6 @@ Programmer | Software Developer | QA | tester
 
 <a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=endriwschiavenato&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![GitHub Snake dark](https://github.com/Platane/snk/raw/output/github-user-contribution.svg#gh-dark-mode-only)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <a href="http://www.github.com/endriwschiavenato"><img src="https://activity-graph.herokuapp.com/graph?username=endriwschiavenato&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
