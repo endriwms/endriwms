@@ -29,11 +29,15 @@ Programmer | Software Developer | QA | tester
 
 <p align="left"> <a href="https://www.facebook.com/endriwschiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/endriwschiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/endriwmoraes__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/endriwschiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/278802/endriw-schiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
 <p align="center">
-<a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-stats.vercel.app/api?username=endriwschiavenato&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="endriwschiavenato's GitHub stats" /></a>
-
-<a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=endriwschiavenato&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <b>My GitHub Stats</b>
+  <a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-stats.vercel.app/api?username=endriwschiavenato&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="endriwschiavenato's GitHub stats" /></a>
 </p>
+
+<p align="center">
+  <a href="http://www.github.com/endriwschiavenato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=endriwschiavenato&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="center">
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </p>
