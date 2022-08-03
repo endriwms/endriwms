@@ -5,8 +5,8 @@ Hi 👋 My name is Endriw Schiavenato
 Programmer | Software Developer | QA | tester
 
 * 🌍  I'm based in Torres - RS
-* 🖥️  See my portfolio at [soon](http://endriwms.com)
-* ✉️  You can contact me at [endriwm.schiavenato@gmail.com](mailto:endriwm.schiavenato@gmail.com)
+* 🖥️  See my portfolio at [soon](http://endriwmsi.com)
+* ✉️  You can contact me at [endriwmsi@gmail.com](mailto:endriwmsi@gmail.com)
 * 🧠  I'm learning HTML | CSS | JS | TS | React | NodeJS
 
 ### Skills
