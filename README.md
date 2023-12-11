@@ -1,5 +1,6 @@
 
-Hi 👋 My name is Endriw Schiavenato
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="24px">
+ I'm Endriw Schiavenato!
 ===================================
 
 Programmer | Software Developer | QA | tester
