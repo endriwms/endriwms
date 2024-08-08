@@ -6,7 +6,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 Programmer | Software Developer | QA | tester
 
 * 🌍  I'm based in Torres - RS
-* 🖥️  See my portfolio at [www.endriwmsi.com](https://wwww.endriwmsi.com/)
+* 🖥️  See my portfolio at [www.endriwmsi.com](https://www.endriwmsi.com/)
 * ✉️  You can contact me at [endriwmsi@gmail.com](mailto:endriwmsi@gmail.com)
 * 🧠  I'm learning HTML | CSS | JS | TS | VueJS | Laravel
 
