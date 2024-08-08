@@ -13,7 +13,6 @@ class About extends Developer {
   residence = 'Brazil',
   freela = 'Available',
   address = 'Santa Catarina - BRA',
-  site = 'https://www.endriwmsi.com/'
 }
 ```
 
