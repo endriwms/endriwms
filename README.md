@@ -1,40 +1,55 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=endriwmsi&label=Profile%20views&color=0e75b6&style=flat" alt="endriwmsi" /> </p>
 
-Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="24px">
- I'm Endriw Schiavenato!
-===================================
+# Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Programmer | Software Developer | QA | tester
 
-* 🌍  I'm based in Torres - RS
-* 🖥️  See my portfolio at [www.endriwmsi.com](https://www.endriwmsi.com/)
-* ✉️  You can contact me at [endriwmsi@gmail.com](mailto:endriwmsi@gmail.com)
-* 🧠  I'm learning HTML | CSS | JS | TS | VueJS | Laravel
+## I'm Endriw!
 
-### Skills
+```js
+import Developer from 'endriwmsi'
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+class About extends Developer {
+  name = 'Endriw Schiavenato',
+  residence = 'Brazil',
+  freela = 'Available',
+  address = 'Santa Catarina - BRA',
+  site = 'https://www.endriwmsi.com/'
+}
+```
 
-### Learning
+## Who am I
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+A 21-year-old Systems Analysis and Development student with front-end experience. Passionate about learning and ready to contribute to innovative projects. I have knowledge in:
+- [x] Typecript / Javascript;
+- [x] ReactJS / Next.JS;
+- [x] VueJS / Nuxt.JS
+- [x] Node / NestJS;
+- [x] Prisma; 
+- [x] Vitest;
 
-### Socials
+I worked with a team to build a platform that makes it easier to issue complementary hour certificates, using email tools, QR code generation, and validation with NestJS and ReactJS.
 
-<p align="left"> <a href="https://www.facebook.com/endriwschiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/endriwmsi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/endriwmoraes__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/endriwmsi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/278802/endriw-schiavenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### If you would like to get in touch
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/endriwmsi)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/endriwmsi/)[![Website Badge](https://img.shields.io/badge/-Website-A3E63500DC82?style=flat-square&logo=CircuitVerse&logoColor=white&link=LINK_WEBSITE)](https://www.endriwmsi.com/)
 
-<b>My GitHub Stats</b>
+## Frameworks & Skills
+<img src="https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=whit" /> 
+<img src="https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript&logoColor=whit" /> 
+<img src="https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=0175C2" /> 
+<img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=DD2C00" /> 
+<img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B" /> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=Next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/vuejs-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/NuxtJs-20232A?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /> 
+<img src="https://img.shields.io/badge/Styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093" /> 
+<img src="https://img.shields.io/badge/Radix-20232A?style=for-the-badge&logo=RadixUi&logoColor=#161618" /> 
+<img src="https://img.shields.io/badge/Shadcn-20232A?style=for-the-badge&logo=ShadcnUI&logoColor=#000000" /> 
 
-<a href="http://www.github.com/endriwmsi"><img src="https://github-readme-stats.vercel.app/api?username=endriwmsi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="endriwms's GitHub stats" /></a>
 
-<a href="http://www.github.com/endriwmsi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=endriwmsi&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Stats
+![endriwmsi GitHub stats](https://github-readme-stats.vercel.app/api?username=endriwmsi&show_icons=true&theme=dracula)
+
+
+- Thanks for visiting.
